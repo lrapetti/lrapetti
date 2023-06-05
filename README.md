@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Lorenzo Rapetti. I am a _roboticist and bioengineer_ working as PostDoc at the [Artificial and Mechanical Intelligence lab](https://ami.iit.it/).
+
+You can find more info about my career and research [here](https://www.iit.it/it/people-details/-/people/lorenzo-rapetti).
+
 <!--
 **lrapetti/lrapetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
